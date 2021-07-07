@@ -7,3 +7,12 @@
     background-color: rgb(199, 29, 29);
     font-size: 20px;
 }
+
+.product{
+    height: 100px;
+}
+
+.shield{
+    border: 2px solid black;
+    background-color: blue;
+}
